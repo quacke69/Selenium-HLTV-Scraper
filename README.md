@@ -1,2 +1,2 @@
-# Selenium-HLTV-Scraper
- Attempt at a Selenium-based HLTV stat scraper.
+# [WIP] Selenium-HLTV-Scraper
+ Attempt at a Selenium-based HLTV stat scraper. The general idea is to create a program that can open a series of HLTV matches, and collect a series of statistics for the players that participated. The initial purpose of this is to conduct in-depth statistical analysis on how various statistics for various players correlate with how much their respective teams win games. 
